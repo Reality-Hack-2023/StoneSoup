@@ -34,5 +34,5 @@ EditorBuildSettings:
       Toolkit Sample/XR Interaction Toolkit Sample.unity
     guid: 457c784199db14427a9e59e7acbf15a2
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 61055b9e6560bd940a219a9263db9485, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4954765485367094a9ec60eafe0affac, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 83d15b5cb5d461e4781ba5cafe7b04dd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e9c08de822642b640ae8d31cc15cb164, type: 2}
