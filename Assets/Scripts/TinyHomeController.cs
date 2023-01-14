@@ -9,7 +9,6 @@ public class TinyHomeController : MonoBehaviour,IPointerClickHandler
     private GameObject housingOption;
     [SerializeField]
     private GameObject masterPlan;
-
     // Start is called before the first frame update
     void Start()
     {

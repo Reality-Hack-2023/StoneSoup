@@ -30,7 +30,7 @@ internal sealed class PlaceMapOnPlane : MonoBehaviour,IPointerClickHandler
             if (hit.transform.gameObject.layer == LayerMask.NameToLayer("PlaneLayer"))
             {
                 PlaceMape(hit.point);
-                hit.collider.enabled = false;
+                hit.transform.gameObject.SetActive(false);
                 Debug.Log("spatial plane");
             }
             else if (hit.transform.gameObject.layer == LayerMask.NameToLayer("TinyHomeLayer"))

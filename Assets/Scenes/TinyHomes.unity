@@ -137,6 +137,7 @@ GameObject:
   - component: {fileID: 116555813}
   - component: {fileID: 116555812}
   - component: {fileID: 116555816}
+  - component: {fileID: 116555817}
   m_Layer: 0
   m_Name: AR Camera
   m_TagString: MainCamera
@@ -258,6 +259,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   housingMapsPrefb: {fileID: 1793882150}
   placeAction: {fileID: 1063613578457033467, guid: 3b8161acd44bb4e9489a58e42924c914, type: 3}
+--- !u!114 &116555817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116555810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c49b4cc203aa6414fae5c798d1d0e7d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EventMask:
+    serializedVersion: 2
+    m_Bits: 192
+  m_MaxRayIntersections: 0
 --- !u!1 &198044303
 GameObject:
   m_ObjectHideFlags: 0
@@ -780,6 +797,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1195921790957821891, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1564059782897936924, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
       propertyPath: m_Name
       value: HousingMap
@@ -851,6 +872,22 @@ PrefabInstance:
     - target: {fileID: 3072934471544113111, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
       propertyPath: m_Layer
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3286259675813116461, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3965163375548010928, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4619310562807522571, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5209901597126198243, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
