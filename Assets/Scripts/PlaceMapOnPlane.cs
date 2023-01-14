@@ -10,6 +10,9 @@ internal sealed class PlaceMapOnPlane : MonoBehaviour,IPointerClickHandler
     private GameObject housingMapsPrefb;
     [SerializeField]
     private InputActionReference  placeAction;
+    [SerializeField]
+    private GameObject stopPlaneDetection;
+
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +34,7 @@ internal sealed class PlaceMapOnPlane : MonoBehaviour,IPointerClickHandler
             {
                 PlaceMape(hit.point);
                 hit.transform.gameObject.SetActive(false);
+                stopPlaneDetection.SetActive(false);
                 Debug.Log("spatial plane");
             }
             else if (hit.transform.gameObject.layer == LayerMask.NameToLayer("TinyHomeLayer"))

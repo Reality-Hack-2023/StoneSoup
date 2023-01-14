@@ -259,6 +259,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   housingMapsPrefb: {fileID: 1793882150}
   placeAction: {fileID: 1063613578457033467, guid: 3b8161acd44bb4e9489a58e42924c914, type: 3}
+  stopPlaneDetection: {fileID: 1743057262}
 --- !u!114 &116555817
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -677,7 +678,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &1147180900
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -889,6 +890,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8959295582766828233, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 116555811}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9327387a93e61764b99d17dff8fa7a82, type: 3}
 --- !u!1 &1793882150 stripped
