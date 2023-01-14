@@ -1,31 +1,52 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystems;
+using UnityEngine.InputSystem;
 
-internal sealed class PlaceMapOnPlane : MonoBehaviour, IPointerClickHandler
+internal sealed class PlaceMapOnPlane : MonoBehaviour
 {
     [SerializeField]
     private GameObject housingMapsPrefb;
-    private GameObject housingMap;
+    [SerializeField]
+    private InputActionReference  placeAction;
     // Start is called before the first frame update
     void Start()
     {
-        housingMap = GameObject.Instantiate(housingMapsPrefb);
-        housingMap.SetActive(false);
+        placeAction.action.performed += OnPlaceAction;
+        housingMapsPrefb.SetActive(false);
     }
 
-    public void OnPointerClick(PointerEventData eventData)
+    private void OnPlaceAction(InputAction.CallbackContext ctx)
     {
-        var hitPosition = eventData.pointerCurrentRaycast.worldPosition;
-        housingMap.transform.position = hitPosition;
-        //ToDo:placing map facing the camera direction
-        housingMap.transform.LookAt(Camera.main.transform);
-        var rot = housingMap.transform.rotation.eulerAngles;
+        // This would cast rays only against colliders in layer 8.
+        //var layerMask = LayerMask.NameToLayer("PlaneLayer");
+
+        RaycastHit hit;
+
+        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, Mathf.Infinity))
+        {
+            if (hit.transform.gameObject.layer == LayerMask.NameToLayer("PlaneLayer"))
+            {
+                PlaceMape(hit.point);
+                Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * hit.distance, Color.yellow);
+                Debug.Log("Did Hit");
+            }
+        }
+        else
+        {
+            Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * 1000, Color.white);
+            Debug.Log("Did not Hit");
+        }
+    }
+    private void PlaceMape(Vector3 hitPosition)
+    {
+        housingMapsPrefb.transform.position = hitPosition;
+        housingMapsPrefb.transform.LookAt(Camera.main.transform);
+        var rot = housingMapsPrefb.transform.rotation.eulerAngles;
         rot.x = 0;
         rot.z = 0;
-        housingMap.transform.eulerAngles = rot;
-
-        housingMap.SetActive(true);
+        housingMapsPrefb.transform.eulerAngles = rot;
+        housingMapsPrefb.SetActive(true);
     }
+
 }
