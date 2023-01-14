@@ -19,6 +19,7 @@ internal sealed class PlaceMapOnPlane : MonoBehaviour, IPointerClickHandler
     {
         var hitPosition = eventData.pointerCurrentRaycast.worldPosition;
         housingMap.transform.position = hitPosition;
+        //ToDo:placing map facing the camera direction
         housingMap.SetActive(true);
     }
 }
