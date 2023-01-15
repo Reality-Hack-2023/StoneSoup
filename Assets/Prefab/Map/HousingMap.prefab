@@ -700,7 +700,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67082fc93eded9e458897d11697abe00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  housingOption: {fileID: 8422717159156826300}
+  housingOption: {fileID: 6829111195672647718}
   masterPlan: {fileID: 6114592842733119838}
 --- !u!1 &3072934471544113111
 GameObject:
