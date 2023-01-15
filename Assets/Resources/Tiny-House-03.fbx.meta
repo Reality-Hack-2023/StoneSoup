@@ -239,8 +239,148 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: wire_227153153
     second: {fileID: 2100000, guid: 5a923a3df7f23334da61e869d1075175, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3top
+    second: {fileID: 2800000, guid: 899d8c958db03ff4baa16f97a03913ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abstract_Shapes
+    second: {fileID: 2800000, guid: 8416e446abb823548b47b375a6339864, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bitmap2Material_3_Base_Color
+    second: {fileID: 2800000, guid: c5aded6891c35ea4cad2422c6b4341e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bed_bump_4k
+    second: {fileID: 2800000, guid: 156b305d1d25c0d41a4fb853f4b9570c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bed_col_1k
+    second: {fileID: 2800000, guid: 45916db44a92d6344b92870a410f69e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carpet
+    second: {fileID: 2800000, guid: 2d58caed216c72f489c9a8a0763b6260, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dome-texture
+    second: {fileID: 2800000, guid: 658fc82a55f6dd94badc38a8ee7d8bed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_dark-grey
+    second: {fileID: 2800000, guid: 807c101747932744fadb65a6d07ddbeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_green
+    second: {fileID: 2800000, guid: 63d9c990cfb605d4eb11f03cbed97229, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_grey
+    second: {fileID: 2800000, guid: ae3c66cd0e9cbe14a8bf539d27768fce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_orange
+    second: {fileID: 2800000, guid: feff854f591da054bab6b3cc621aa09e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_yellow
+    second: {fileID: 2800000, guid: 5319cf12b0ad9f6419a5d068c2c6bc1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fire
+    second: {fileID: 2800000, guid: 95af5a9eefac8b74e9f79353db78326e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: keyboard
+    second: {fileID: 2800000, guid: 518fd99ea819dfc43875309d30fee776, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_BaseColor
+    second: {fileID: 2800000, guid: a000b8eff43332a4ca7d8df213cc9a6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_Metallic
+    second: {fileID: 2800000, guid: 874ce826875dc2048878aab69e47dd6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_Normal
+    second: {fileID: 2800000, guid: 94807f2f68fa3584fa1c48f4a7904377, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_Roughness
+    second: {fileID: 2800000, guid: 79ab186d910d710448c10aa908472894, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf_monstera_01
+    second: {fileID: 2800000, guid: 9d8a867f65354624c9ae7623db6a2025, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf_monstera_02
+    second: {fileID: 2800000, guid: cdebd7f91edd0c44cbf0c6804a05c09b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf_monstera_03
+    second: {fileID: 2800000, guid: 7990208bdcedacc4fa1951b58c1d0e67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: legs_col_2k
+    second: {fileID: 2800000, guid: a373bcef2c1dddf49b42d7a83bcb411b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mattress_col_2k
+    second: {fileID: 2800000, guid: 8899b4c76b5f86140b64a2147f5b7025, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rug
+    second: {fileID: 2800000, guid: 28139a1fca4c0994a89226649b48b167, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sand
+    second: {fileID: 2800000, guid: 8f9a80dc74d308549b03dbe4fce8f0b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stone-floor
+    second: {fileID: 2800000, guid: 944bbdd67f1d12e478a20a79028f55f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2800000, guid: 33cc007a88ca9d24099e3d92012fdbc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_01
+    second: {fileID: 2800000, guid: 50b631047b837864e96d6fc2d2099b9e, type: 3}
   materials:
-    materialImportMode: 2
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
