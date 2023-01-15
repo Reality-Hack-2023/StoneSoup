@@ -2129,6 +2129,50 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5622616569228774530}
     m_Modifications:
+    - target: {fileID: 1782364458032188647, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2396168102761703657, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3103376927003543870, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311304802163939083, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3817472632789239026, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3971131401594635193, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4182539442016658897, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4206926540726338263, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4276850942479779493, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4595859097347049042, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4698508727886373142, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4996628947419300394, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -2185,9 +2229,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5283089035376711589, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291338323630473659, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5628451843377780880, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
       propertyPath: m_Name
       value: Tiny-House-01 Variant (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280945783973868963, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941133539615605463, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6988702991433887013, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7206133180021927902, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8098603982238968769, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8624450757396024809, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8641d267898e0634b87e7950a10298fd, type: 3}
