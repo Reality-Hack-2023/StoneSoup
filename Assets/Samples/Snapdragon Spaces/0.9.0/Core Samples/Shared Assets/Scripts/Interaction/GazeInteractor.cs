@@ -41,7 +41,7 @@ namespace Qualcomm.Snapdragon.Spaces.Samples
 
         private void Start() {
             _mainCamera = Camera.main;
-            _eyeTextureWidth = XRSettings.eyeTextureWidth;
+            _eyeTextureWidth = XRSettings.eyeTextureWidth*2; //TODO: hack for the hack
             _eyeTextureHeight = XRSettings.eyeTextureHeight;
 
             /* If XR is disabled, the eye texture size values will be zero.

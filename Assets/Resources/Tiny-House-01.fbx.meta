@@ -1,9 +1,54 @@
 fileFormatVersion: 2
-guid: b751beae33b12e4418d6c1df710aef66
+guid: e78f86f258212f54290319f4be3391ae
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 784ecaf3d6f733a43a8906c7bafa70d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: eb476754bed0eb448ac01e54a9e42895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: d8a1ab2a4d416df428dea99cf997d1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 825dcb5eb3301314482b39406df39e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 0ed5940b6428ac44b8ec6395447e05ca, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2800000, guid: aa8deef727622514c9ab05cda8cb2056, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stained-glass
+    second: {fileID: 2800000, guid: a931bacfe15c40e4a9983ad1ef291376, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood door
+    second: {fileID: 2800000, guid: c2e7a948728ffff43a64b319e12706e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood-walls
+    second: {fileID: 2800000, guid: 06ea10a0a831a104a829ad96da6f3554, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

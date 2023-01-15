@@ -1,29 +1,19 @@
 fileFormatVersion: 2
-guid: bd697c3624cfd174c914ddc3f1dff6c5
+guid: 6341bd7f4afe88c43a341b50b031af32
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
   externalObjects:
   - first:
-      type: UnityEngine:Material
+      type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Material.002
-    second: {fileID: 2100000, guid: 5bef3658fc299d842b639235ff7a0998, type: 2}
+      name: front
+    second: {fileID: 2800000, guid: 5bb1b95821864bb45a3b48608dc33d36, type: 3}
   - first:
-      type: UnityEngine:Material
+      type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Material.003
-    second: {fileID: 2100000, guid: e080e89b5043b424ea834d864e4ed1da, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.004
-    second: {fileID: 2100000, guid: 96e5155f7e0144e48a11180f79dfdfe8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.005
-    second: {fileID: 2100000, guid: ef3e7006f3672034887678bb85eeec2f, type: 2}
+      name: outside-walls
+    second: {fileID: 2800000, guid: d366bb7d610b0fa4aacb5f7ff0ece276, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

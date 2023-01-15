@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5ade87f1f8632864a90c60ab58b87083
+guid: e6fe75b6495048347b27895851a4a175
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -8,237 +8,377 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Armchair back
-    second: {fileID: 2100000, guid: bce5d414b6898e9489a88a687d6acbe9, type: 2}
+    second: {fileID: 2100000, guid: bdaa814b7422e164e91ee048b8e4338f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Armchair fabric 01
-    second: {fileID: 2100000, guid: 9e6a899259b69b74f9a82f586da8f854, type: 2}
+    second: {fileID: 2100000, guid: 819b9e575d9d3ad4bb2dd4786f83df34, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Armchair fabric 02
-    second: {fileID: 2100000, guid: 0acfe1893b76e1c4dbddc24bcf0dd526, type: 2}
+    second: {fileID: 2100000, guid: 52bdebc95eb7b8544b829e997ae86596, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Black legs
-    second: {fileID: 2100000, guid: 831ae0763dd85eb44940ae246fb3ac3a, type: 2}
+    second: {fileID: 2100000, guid: 3184d3e3ae1ba4d40952ff9701edd81d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Chair fabric 02
-    second: {fileID: 2100000, guid: 07daccdea8df90c4b96b75b982d81178, type: 2}
+    second: {fileID: 2100000, guid: c53f9faabff528f44aa27a494663a7a1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Clay
-    second: {fileID: 2100000, guid: cf6ecdabf5f2b5240bbbed0fd83039ca, type: 2}
+    second: {fileID: 2100000, guid: 47e370bd02824c24681f171866d35725, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Computer aluminum
-    second: {fileID: 2100000, guid: 5b2f87bc70f9b9248ad1cdf194076ec1, type: 2}
+    second: {fileID: 2100000, guid: 9d135b88438b8944190e411f5aa30732, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Computer keyboard
-    second: {fileID: 2100000, guid: e76966c52e4137f468e845ebdebc5c51, type: 2}
+    second: {fileID: 2100000, guid: ae14ce86084a3da40ab585caf7b38642, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Computer logo
-    second: {fileID: 2100000, guid: 334272a59ad08df469f8da0e1827cf65, type: 2}
+    second: {fileID: 2100000, guid: 12a767dd538e9234d9398b7fdd8da0c5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Computer screen
-    second: {fileID: 2100000, guid: 5683b08bf4bffed40bb336e25dac59a9, type: 2}
+    second: {fileID: 2100000, guid: e5776a9fa4c7b9643b4b570e012367e4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Copper
-    second: {fileID: 2100000, guid: b5293cb328970ae4298dcd134d764652, type: 2}
+    second: {fileID: 2100000, guid: 8b23798e69b7b814e9e80a7d819c4742, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Fire
-    second: {fileID: 2100000, guid: ecd2ecf097890a54ca7fc317c0e039f8, type: 2}
+    second: {fileID: 2100000, guid: c60f2d48159583448babaa64c2ff6c7a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass stove
-    second: {fileID: 2100000, guid: 3b59d73f901d03d41a9772ee234d7bf5, type: 2}
+    second: {fileID: 2100000, guid: b4133c2da33c08b4d84ccbf9093e1c38, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass table
-    second: {fileID: 2100000, guid: 524e1929130be874594fac3ab75613ac, type: 2}
+    second: {fileID: 2100000, guid: e628f66cf71bd6e479f958c64494f601, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass table edge
-    second: {fileID: 2100000, guid: 30309c973e5385143add0503e48b6672, type: 2}
+    second: {fileID: 2100000, guid: 648422236a36e8c4399e6ee9b3179fe3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lamp black
-    second: {fileID: 2100000, guid: 1fbfb1128a1890b46902b5a257746c82, type: 2}
+    second: {fileID: 2100000, guid: 36e58fc68247f4c418ba7acba520ebdd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lamp glass
-    second: {fileID: 2100000, guid: 9f93cf9450f0af841a33f8b04387704f, type: 2}
+    second: {fileID: 2100000, guid: b83f6cee3faa4a646959eaeffd104d08, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lamp light
-    second: {fileID: 2100000, guid: 7a36964d0f5e77e43b0ae5f5661408b4, type: 2}
+    second: {fileID: 2100000, guid: 4ba31958dfd603a49851e4a9b831ff41, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lamp_01
-    second: {fileID: 2100000, guid: 1082703ed3f81b44eade6405de8d9256, type: 2}
+    second: {fileID: 2100000, guid: afee364c1ac92e44db29381fe79e431a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Leaf_01
-    second: {fileID: 2100000, guid: 2fafe935d111d7848bb85c23573cc9b1, type: 2}
+    second: {fileID: 2100000, guid: 01db42a1aeb44e24b81ca726444d3927, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Leaf_02
-    second: {fileID: 2100000, guid: 5a0e92c6d01e8904583fa648ba9509b3, type: 2}
+    second: {fileID: 2100000, guid: cc300a082ba740a44b562b14b0e03ebf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Leaf_03
-    second: {fileID: 2100000, guid: 69192066b449442438ccd53b3211a339, type: 2}
+    second: {fileID: 2100000, guid: 5c870974336b4ed4691ac4b0dce8ab57, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material
-    second: {fileID: 2100000, guid: 01b0b558bfb02b04b81fab1e84be8226, type: 2}
+    second: {fileID: 2100000, guid: 27d0bc433e194ba43a75dc3c5cbb5144, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.002
-    second: {fileID: 2100000, guid: d0ba236cf45b2e64cb631364dfc6bda0, type: 2}
+    second: {fileID: 2100000, guid: 9a905429d2f5dc041bbb6c617d350a7f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.003
-    second: {fileID: 2100000, guid: 586431f2739b6e143bf000c67ed3b3c5, type: 2}
+    second: {fileID: 2100000, guid: 9df001ecec0263d45aa0eda95570be8f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.004
-    second: {fileID: 2100000, guid: a2a56740fc34797428430af611530204, type: 2}
+    second: {fileID: 2100000, guid: 51f9d557a43eef041bb91a39f1af239d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.005
-    second: {fileID: 2100000, guid: 56b83e3d18b89bb48bd8545045e30f15, type: 2}
+    second: {fileID: 2100000, guid: 9cb43eaf2f13b904fbb0263f8f0bcb09, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.006
-    second: {fileID: 2100000, guid: af6a0d8962417884183f1e1efc689007, type: 2}
+    second: {fileID: 2100000, guid: 57aafc5e47e3d1b4899ec91160db50f0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.007
-    second: {fileID: 2100000, guid: bf8c8ef8765092d43ac4ec5609d01090, type: 2}
+    second: {fileID: 2100000, guid: 1f0e51138d45c6d4eb160bc4c977041b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.033
-    second: {fileID: 2100000, guid: 891194ab11b6f834da78c59c805f2b18, type: 2}
+    second: {fileID: 2100000, guid: 44736747f4352c64e8e280523b1552d1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.051
-    second: {fileID: 2100000, guid: 00d45d4143f428c418d86a8612465c09, type: 2}
+    second: {fileID: 2100000, guid: ec62ae3b063854e4582684bde62b93c6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.052
-    second: {fileID: 2100000, guid: 7a68caf3f2baa6b4cb9ca8257be72986, type: 2}
+    second: {fileID: 2100000, guid: 76ca2575768856a4b8c303a543a14e37, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Metal Lamp
-    second: {fileID: 2100000, guid: a47553b051a994640a3932933daae742, type: 2}
+    second: {fileID: 2100000, guid: 8123e70a2e795c74ba2cbef9ba5f9083, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Rug
-    second: {fileID: 2100000, guid: cae2268a8a6636d4eb8da5b7d77603bd, type: 2}
+    second: {fileID: 2100000, guid: 3379f499f493bb447bd25f2d10d35d7b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Sofa fabric
-    second: {fileID: 2100000, guid: 9e127626b612dc64b906c9ce71f20873, type: 2}
+    second: {fileID: 2100000, guid: 4144fb0f75702924fb5c0b4dcf485b2c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Sofa legs
-    second: {fileID: 2100000, guid: 741e70a942b04d745a047255975ac125, type: 2}
+    second: {fileID: 2100000, guid: dd09a41b8551fdb4ebce12a0b209bba6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Sofa pillows
-    second: {fileID: 2100000, guid: 3858906d60f934b449652417b0af8b78, type: 2}
+    second: {fileID: 2100000, guid: 42d13d79966edca49bfe4fcc686970a1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Soil
-    second: {fileID: 2100000, guid: b4758cc085f578f458d53fa31fc30093, type: 2}
+    second: {fileID: 2100000, guid: 2302e6444d2306d4095209f1577f3c17, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stalk_01
-    second: {fileID: 2100000, guid: de07ee24ac620124eb98da15903b8f5d, type: 2}
+    second: {fileID: 2100000, guid: cca6b6393d05f634884bbef0a5778987, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stove black
-    second: {fileID: 2100000, guid: b355d551a0467ee4b9767f205320fcea, type: 2}
+    second: {fileID: 2100000, guid: 7f721eef677373940ac62cda32a4642e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stove glass
-    second: {fileID: 2100000, guid: 956d74c5fb5cd584ebc0e43f2c1d896c, type: 2}
+    second: {fileID: 2100000, guid: a3aa43983c058ae4fa637ddfa7708e0c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: White lamp
-    second: {fileID: 2100000, guid: 0268f843fd5aa614d8b7542e14c774a6, type: 2}
+    second: {fileID: 2100000, guid: 7805d8c416a14134989e93758067e7ea, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood
-    second: {fileID: 2100000, guid: 308fc12e533059545bc98eee4a6d5aa6, type: 2}
+    second: {fileID: 2100000, guid: 121915bc73ec2914c826415acf81138f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood plant
-    second: {fileID: 2100000, guid: a8919973c5ad50447bfb4e67e131b41c, type: 2}
+    second: {fileID: 2100000, guid: c0543b5d4eaca5f4fa6269c89987aed3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lanterna
-    second: {fileID: 2100000, guid: 4cea6dca113465d43a143be74f62d40b, type: 2}
+    second: {fileID: 2100000, guid: b60fdf288afeac841afa9b9bb3578333, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wire_006135113
-    second: {fileID: 2100000, guid: a594e8cb26000154cb9e6e2d8dc4fc10, type: 2}
+    second: {fileID: 2100000, guid: f264406d80ef3b346abce5fe58b444c3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wire_227153153
-    second: {fileID: 2100000, guid: 5a923a3df7f23334da61e869d1075175, type: 2}
+    second: {fileID: 2100000, guid: 9d812e7ba63835b4f9b6d7da793af8ac, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3top
+    second: {fileID: 2800000, guid: d122a938d320d994497423493d170d6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abstract_Shapes
+    second: {fileID: 2800000, guid: f24d4b967325ac843995f8f1e6a3f815, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bitmap2Material_3_Base_Color
+    second: {fileID: 2800000, guid: 4347b375319e47d468136e2e1c252f6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bed_bump_4k
+    second: {fileID: 2800000, guid: 470b26a6db09005429d3ee72d9f12f7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bed_col_1k
+    second: {fileID: 2800000, guid: 7a05ee3469fe5de4388ba4c2f11c0d4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carpet
+    second: {fileID: 2800000, guid: d6d118ca338bc7e479abaabf0cff037b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dome-texture
+    second: {fileID: 2800000, guid: 54478e5d6afb25f459ae4c96a6e97eb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_dark-grey
+    second: {fileID: 2800000, guid: a0fa4a695a794694195f0bd4d9488079, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_green
+    second: {fileID: 2800000, guid: 33ceb339964a8754aba20073579eb97c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_grey
+    second: {fileID: 2800000, guid: 64e8e9711cdb8194b9b1cc6b2dfc334f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_orange
+    second: {fileID: 2800000, guid: dbfa31eaced54e14382a69dd02e0a4db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_yellow
+    second: {fileID: 2800000, guid: 95c85e256e8a3a34d9151f500b3c3177, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fire
+    second: {fileID: 2800000, guid: ae7cb736c8fbb5848be6833238fa613d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: keyboard
+    second: {fileID: 2800000, guid: bb353b1cf4d4863418b23f59472289c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_BaseColor
+    second: {fileID: 2800000, guid: 06ccbda122c38d04f957c03926258b10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_Metallic
+    second: {fileID: 2800000, guid: e030b6949dc87d04da9c15a1309ee489, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_Normal
+    second: {fileID: 2800000, guid: 699bd53f05025b444bbdcd3303ad64a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lanterna_low_14_TT_checker_500x500_UV_GRID_Roughness
+    second: {fileID: 2800000, guid: 76b116a07e7832545be653e5e26a04d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf_monstera_01
+    second: {fileID: 2800000, guid: 65ff9ce249dcbf34a9d9ee396dc86982, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf_monstera_02
+    second: {fileID: 2800000, guid: 2b047749143d7f84b89a473004ec2022, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf_monstera_03
+    second: {fileID: 2800000, guid: 3c9e2cf2b3cfbd24f9dfed2d5c1201c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: legs_col_2k
+    second: {fileID: 2800000, guid: 2ac40bcefa91289408f8e21f5b5c8079, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mattress_col_2k
+    second: {fileID: 2800000, guid: 8c094b11ac98f774b9d796c11b6901d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rug
+    second: {fileID: 2800000, guid: 39500b257fcc35142878f9787218120a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sand
+    second: {fileID: 2800000, guid: 18e36ffdbb3184045953eb6a747107f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stone-floor
+    second: {fileID: 2800000, guid: bcff8356483d0f946b3550739ecbcfdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2800000, guid: d09b46273db461b42826c8a44ce320cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_01
+    second: {fileID: 2800000, guid: db8bb5a3fdb6c0543a22ac88d907017e, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
