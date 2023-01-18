@@ -20,5 +20,7 @@ public class StopPlaneDetection : MonoBehaviour
     public void OnButtonClicked()
     {
         planeManager.requestedDetectionMode = PlaneDetectionMode.None;
+        planeManager.detectionMode = PlaneDetectionMode.None;
+        planeManager.enabled = false;
     }
 }

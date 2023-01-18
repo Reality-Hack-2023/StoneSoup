@@ -206,7 +206,7 @@ GameObject:
   - component: {fileID: 8013134234613248029}
   - component: {fileID: 444585341660518321}
   - component: {fileID: 7576960845528540273}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: TinyHouse (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -286,7 +286,7 @@ BoxCollider:
   m_GameObject: {fileID: 1592846897792944221}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 1.5595812, y: 0.95539623, z: 1.3419287}
   m_Center: {x: 0.010437556, y: 0.030615516, z: 0.0030244142}
@@ -493,7 +493,7 @@ GameObject:
   - component: {fileID: 7064427912559713374}
   - component: {fileID: 7604225756603374607}
   - component: {fileID: 6407752676534377709}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: TinyHouse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -573,7 +573,7 @@ BoxCollider:
   m_GameObject: {fileID: 2851853405684376982}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 1.1509762, y: 0.88505024, z: 1.9906933}
   m_Center: {x: 0.0754167, y: -0.004557371, z: -0.3213576}
@@ -715,8 +715,8 @@ GameObject:
   - component: {fileID: 9066097941176314493}
   - component: {fileID: 3855954029104759957}
   - component: {fileID: 1453501541394829572}
-  m_Layer: 7
-  m_Name: TinyHouse (1)
+  m_Layer: 0
+  m_Name: TinyHouse ( 1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -795,7 +795,7 @@ BoxCollider:
   m_GameObject: {fileID: 3072934471544113111}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 1.6007612, y: 0.91832006, z: 1.5594648}
   m_Center: {x: -0.049666166, y: 0.01207754, z: 0.078522265}
